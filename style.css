@@ -68,5 +68,22 @@ footer {
   height: 300px;
   border: 0;
 }
+.tel-btn {
+  display: inline-block;
+  margin-top: 16px;
+  padding: 14px 22px;
+  background-color: #2e7d32; /* 落ち着いた緑 */
+  color: #fff;
+  font-size: 1.1rem;
+  font-weight: bold;
+  text-decoration: none;
+  border-radius: 30px;
+}
+
+.tel-btn:hover {
+  opacity: 0.9;
+}
+
+
 
 
