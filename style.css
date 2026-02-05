@@ -52,3 +52,15 @@ footer {
   color: #777;
   padding: 20px 0;
 }
+/* 土曜日 */
+.sat {
+  color: #2a6ebb; /* 落ち着いた青 */
+  font-weight: bold;
+}
+
+/* 定休日 */
+.holiday {
+  color: #c0392b; /* 目立つ赤 */
+  font-weight: bold;
+}
+
